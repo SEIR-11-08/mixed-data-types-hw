@@ -219,10 +219,6 @@ Expected result:
 &#x1F534; **Commit** "humdinger"
 <hr>
 
-# Hungry For Quite a bit more?
-
-Complete this [advanced object lab using weather data](https://git.generalassemb.ly/sf-sei-3/weather-object-lab), committing as you go.
-
 ## Hungry for CSS stuff?
 
 Some tasty CSS videos:
